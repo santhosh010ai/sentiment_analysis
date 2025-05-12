@@ -1,5 +1,3 @@
-# --- README.md ---
-# Custom Sentiment Analysis System
 
 ## Overview
 This project is a lightweight AI-driven text classification system for customer sentiment analysis. It classifies feedback into Positive, Negative, or Neutral.
